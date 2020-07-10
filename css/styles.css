@@ -10,3 +10,20 @@ h2 {
   color: #9B4B09;
   background-color: #FFC493;
 }
+.me {
+  color: #228B11;
+}
+.hobbies{
+  color: white;
+
+}
+.hobbies {
+  border: 2px solid #740000;
+  padding: 2px;
+  background-color: #AC6868;
+}
+.sidebar {
+  width: 15%;
+  float: left;
+  background-color: #AADBC1;
+}
