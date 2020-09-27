@@ -9,4 +9,4 @@ Uses HTML and CSS
 Project Instructions
 Open with a Web Browser
 Link to Live SIte
-https://Isaac-waithaka.github.io/Portfolio
+Isaac-waithaka.github.io/Portfolio
